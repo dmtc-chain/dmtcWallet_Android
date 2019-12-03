@@ -1,1 +1,0 @@
-# dmtcWallet_Android
